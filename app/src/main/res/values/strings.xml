@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ambulance</string>
+    <string name="username">Phone number or Email</string>
+    <string name="pass">Enter your password</string>
+    <string name="login_top_text">Enter Your Credentials !</string>
+    <string name="home">Home</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="chat_with_doctors">Chat With Doctors</string>
+    <string name="profile">Profile</string>
+    <string name="chat_with_doctors_button">Chat With Doctors</string>
+    <string name="hospitals_button">Hospitals</string>
+    <string name="profile_button">Profile</string>
+    <string name="home_button">Home</string>
+    <string name="log_in">Log in</string>
+    <string name="singIn">New User ?</string>
+</resources>
