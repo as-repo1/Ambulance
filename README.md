@@ -1,6 +1,13 @@
 # Ambulance
 
 
+## The log in page
+
+1. Two EditText fields for the user to enter their username and password.
+2. An ImageView displaying a logo or an image related to the app.
+3. Two buttons, one for logging in and another for signing up.
+
+
 ## Home Section (working)
 
 Description:
@@ -28,11 +35,11 @@ Implementation:
 Overall, the home section of the Ambulance app provides users with quick and easy access to important features that can help them in an emergency situation.
 
 
-## The log in page
+## TO-DO
 
-1. Two EditText fields for the user to enter their username and password.
-2. An ImageView displaying a logo or an image related to the app.
-3. Two buttons, one for logging in and another for signing up.
+### HOSPITALS SECTION
+### CHAT WITH DOCTOR SECTION
+### PROFILE SECTION
 
 
 ## Bottom Navigation 
