@@ -1,7 +1,7 @@
 # Ambulance
 
 
-## Title: Home Section (working)
+## Home Section (working)
 
 Description:
 The home section of the Ambulance app provides users with quick access to important features such as first aid information, booking an ambulance, and reminders to pay their bills.
