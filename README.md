@@ -30,6 +30,6 @@ Overall, the home section of the Ambulance app provides users with quick and eas
 
 ## The log in page
 
-Two EditText fields for the user to enter their username and password.
-An ImageView displaying a logo or an image related to the app.
-Two buttons, one for logging in and another for signing up.
+1. Two EditText fields for the user to enter their username and password.
+2. An ImageView displaying a logo or an image related to the app.
+3. Two buttons, one for logging in and another for signing up.
