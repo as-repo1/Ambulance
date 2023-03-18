@@ -1,7 +1,7 @@
 # Ambulance
 
 
-## Title: Home Section
+## Title: Home Section (working)
 
 Description:
 The home section of the Ambulance app provides users with quick access to important features such as first aid information, booking an ambulance, and reminders to pay their bills.
@@ -33,3 +33,10 @@ Overall, the home section of the Ambulance app provides users with quick and eas
 1. Two EditText fields for the user to enter their username and password.
 2. An ImageView displaying a logo or an image related to the app.
 3. Two buttons, one for logging in and another for signing up.
+
+
+## Bottom Navigation 
+
+In bottom_navigation.xml, the BottomNavigationView is defined as a com.google.android.material.bottomnavigation.BottomNavigationView. It has an ID of bottom_navigation, a width of match_parent, and a height of wrap_content. The app:menu attribute specifies the menu resource file to be used for the Bottom Navigation component, which is bottom_navigation_menu.xml.
+
+In bottom_navigation_menu.xml,there are four menu items defined for the Bottom Navigation component, each with an ID, icon, and title. The icons and titles are specified using the android:icon and android:title attributes, respectively. The IDs are used to identify the selected menu item in the listener code.
