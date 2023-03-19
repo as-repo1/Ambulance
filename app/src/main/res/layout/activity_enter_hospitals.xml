@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--    UPPER TEXT ,FOR THE HOSPITAL SEARCH -->
+
+    <TextView
+        android:id="@+id/textViewSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/search_hospital_txt"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"/>
+
+    <!--    SEARCHING THS HOSPITALS ,BY NAME-->
+
+    <EditText
+        android:id="@+id/editTextSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewSearch"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="24dp"
+        android:autofillHints=""
+        android:hint="@string/enter_hospital_hint"
+        android:inputType="text"
+        android:textAlignment="gravity" />
+
+    <!--    CHICK BUTTON FOR INIT THE SEARCH -->
+
+    <Button
+        android:id="@+id/buttonListHospitals"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextSearch"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/search_button_text" />
+
+
+    <!--    SEARCH VIEW SECTION FOR OUTPUT THE INFORMATION ABOUT SEARCH AND LIST OF HOSPITALS-->
+
+    <SearchView
+        android:layout_width="358dp"
+        android:layout_height="323dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="32dp" />
+
+    <!--    CLICK BUTTON FOR SEARCHING ALL THE HOSPITALS THAT ARE LISTED-->
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextSearch"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="199dp"
+        android:layout_toEndOf="@+id/buttonListHospitals"
+        android:text="@string/all_list_txt" />
+
+</RelativeLayout>

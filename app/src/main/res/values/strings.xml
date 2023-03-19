@@ -7,10 +7,18 @@
     <string name="hospitals">Hospitals</string>
     <string name="chat_with_doctors">Chat With Doctors</string>
     <string name="profile">Profile</string>
-    <string name="chat_with_doctors_button">Chat With Doctors</string>
+    <string name="chat_with_doctors_button">Chat With Doc</string>
     <string name="hospitals_button">Hospitals</string>
     <string name="profile_button">Profile</string>
     <string name="home_button">Home</string>
     <string name="log_in">Log in</string>
     <string name="singIn">New User ?</string>
+    <string name="hi">Hi there, navigate to those options</string>
+    <string name="instruction_button">navigate through the buttons</string>
+    <string name="bottom_line">For any type of Emergency Call - 9876543210 \n We are available 24x7</string>
+    <string name="search_hospitals_text">Search for Hospitals</string>
+    <string name="search_hospital_txt">Search for Hospitals here :</string>
+    <string name="enter_hospital_hint">Enter hospital name</string>
+    <string name="search_button_text">Search</string>
+    <string name="all_list_txt">List of All</string>
 </resources>
