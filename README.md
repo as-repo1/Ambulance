@@ -8,7 +8,7 @@
 3. Two buttons, one for logging in and another for signing up.
 
 
-## Home Section (working)
+## Home Section
 
 Description:
 The home section of the Ambulance app provides users with quick access to important features such as first aid information, booking an ambulance, and reminders to pay their bills.
@@ -35,10 +35,23 @@ Implementation:
 Overall, the home section of the Ambulance app provides users with quick and easy access to important features that can help them in an emergency situation.
 
 
+## Hospitals Section
+
+- It includes a search bar where users can enter the name of the hospital they are looking for.
+- There is a button to initiate the search.
+- A TextView element displays a message prompting the user to enter the name of the hospital.
+- An EditText element is used for entering the name of the hospital.
+- A hint is provided to the user indicating what they should enter in the EditText field.
+- A Button element is used to initiate the search.
+- A SearchView element is used to display the search results.
+- The SearchView element takes up the remainder of the screen space below the search button.
+- A Button element displays a list of all the hospitals listed, with options to call the hospital or view information about it.
+- The layout is designed using a RelativeLayout, which allows for elements to be positioned relative to each other.
+
+
 ## TO-DO
 
-### HOSPITALS SECTION
-### CHAT WITH DOCTOR SECTION
+
 ### PROFILE SECTION
 
 
