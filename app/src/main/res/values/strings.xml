@@ -21,6 +21,7 @@
     <string name="enter_hospital_hint">Enter hospital name</string>
     <string name="search_button_text">Search</string>
     <string name="all_list_txt">List of All</string>
+    <string name="chat_txt">Chat</string>
     <string name="chat_doc_txt">List of Dotors Available to Chat</string>
     <string name="hope">We are here with you :)</string>
     <string name="search_doc">Search by Dr. Name</string>
