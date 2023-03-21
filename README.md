@@ -1,12 +1,12 @@
 # Ambulance
 
 
+
 ## The log in page
 
 1. Two EditText fields for the user to enter their username and password.
 2. An ImageView displaying a logo or an image related to the app.
 3. Two buttons, one for logging in and another for signing up.
-
 
 ## Home Section
 
@@ -48,15 +48,26 @@ Overall, the home section of the Ambulance app provides users with quick and eas
 - A Button element displays a list of all the hospitals listed, with options to call the hospital or view information about it.
 - The layout is designed using a RelativeLayout, which allows for elements to be positioned relative to each other.
 
+## Chat With Doctor Section 
 
-## TO-DO
+The chat with doctor section of the app allows users to search for and chat with doctors. The section includes the following features:
 
+- Search field: Users can search for doctors by name.
+- Chat button: Users can click the chat button to start a conversation with a doctor.
+- Image view: Displays an image related to the chat with doctor section.
+- Text view: Displays a message related to the chat with doctor section.
+- ScrollView: Displays a list of previous conversations.
 
-### PROFILE SECTION
+## Profile Section
 
+This is the layout for the profile screen of the app. It contains the following UI elements:
 
-## Bottom Navigation 
+- An ImageView for displaying the user's profile picture.
+- A TextView for displaying the user's name or username.
+- A Button for inviting friends to the app.
+- A Button for accessing the user's activity history.
+- A Button for managing the user's payment methods.
+- A Button for accessing the app's settings.
+- A Button for accessing help and support resources.
 
-In bottom_navigation.xml, the BottomNavigationView is defined as a com.google.android.material.bottomnavigation.BottomNavigationView. It has an ID of bottom_navigation, a width of match_parent, and a height of wrap_content. The app:menu attribute specifies the menu resource file to be used for the Bottom Navigation component, which is bottom_navigation_menu.xml.
-
-In bottom_navigation_menu.xml,there are four menu items defined for the Bottom Navigation component, each with an ID, icon, and title. The icons and titles are specified using the android:icon and android:title attributes, respectively. The IDs are used to identify the selected menu item in the listener code.
+The layout uses ConstraintLayout to ensure that all elements are properly positioned and aligned on the screen. The user's profile picture is displayed in the top center of the screen, followed by their name or username below it. The buttons are arranged in a vertical list below the name or username.
