@@ -18,18 +18,11 @@
 Description:
 The home section of the Ambulance app provides users with quick access to important features such as first aid information, booking an ambulance, and reminders to pay their bills.
 
-Features:
-
-1. First Aid: Users can access important first aid information from the home section of the app.
-2. Book Ambulance: Users can quickly book an ambulance from the home section of the app.
-3. Sticky Top Card: The top of the home section includes a sticky card with a reminder to pay bills and a CTA to pay now.
-
-Layout:
 The home section layout includes three main components:
 
-1. First Aid: A button to access first aid information.
-2. Book Ambulance: A button to quickly book an ambulance.
-3. Sticky Top Card: A sticky card that includes a reminder to pay bills and a CTA to pay now.
+- First Aid: A button to access first aid information.
+- Book Ambulance: A button to quickly book an ambulance.
+- Sticky Top Card: A sticky card that includes a reminder to pay bills and a CTA to pay now.
 
 Implementation:
 
