@@ -36,8 +36,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="249dp"
-        android:layout_height="43dp"
+        android:layout_width="305dp"
+        android:layout_height="33dp"
         android:text="@string/login_top_text"
         android:textAlignment="center"
         android:textSize="24sp"
