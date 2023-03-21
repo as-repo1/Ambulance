@@ -24,15 +24,6 @@ The home section layout includes three main components:
 - Book Ambulance: A button to quickly book an ambulance.
 - Sticky Top Card: A sticky card that includes a reminder to pay bills and a CTA to pay now.
 
-Implementation:
-
-1. First Aid: Clicking on the "First Aid" button will open a new page with important first aid information for common emergencies.
-2. Book Ambulance: Clicking on the "Book Ambulance" button will open a form where users can input their location and request an ambulance.
-3. Sticky Top Card: The sticky card will always be visible at the top of the home section, reminding users to pay their bills and providing a CTA to pay now. Clicking on the CTA will take users to a payment page.
-
-Overall, the home section of the Ambulance app provides users with quick and easy access to important features that can help them in an emergency situation.
-
-
 ## Hospitals Section
 
 - It includes a search bar where users can enter the name of the hospital they are looking for.
