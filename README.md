@@ -2,6 +2,7 @@
 
 # UNDONE works :
 
+- link those pages (activity)
 - get to add the functionality 
 
 
